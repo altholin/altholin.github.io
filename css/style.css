@@ -277,12 +277,12 @@ h3 {
   border-bottom: 1px solid #000;
 }
 .archive {
-  padding: 20 20px;
+  padding: 0 20px;
   margin-bottom: 1em;
 }
 .archive .post-archive {
   list-style: none;
-  padding: 15;
+  padding: 0;
 }
 .archive .post-archive .post-item {
   margin: 6px 0;
